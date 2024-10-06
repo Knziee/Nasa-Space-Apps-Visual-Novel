@@ -1,6 +1,7 @@
+image alert = Movie(play="images/bg_animatedalertconverted.webm")
+
 label act1:
-
-
+    play music "bgm_busloop.flac" volume 0.1 loop 
 
     scene bg_innerbuszoom with fade
 
@@ -15,11 +16,13 @@ label act1:
     luna "I can't wait to see the stars up close!"
 
     hide luna
-    show luna portrait at left with dissolve
+    show luna portrait at left with dissolve:
+        xzoom -1.0
     
     "Luna is 9 years old and very curious. She loves space and has always wanted to be an astronaut."
     hide luna
-    show kai excited at right with dissolve
+    show kai excited at right with dissolve:
+        xzoom -1.0
     kai "And I want to see the giant telescopes! Maybe we can even build a model later."
 
     hide kai
@@ -40,20 +43,23 @@ label act1:
             luna "Me too! I wonder what the Sun looks like up close"
             hide luna
         "I really want to observe the solar system!":
-            show kai happy at right with dissolve
+            show kai happy at right with dissolve:
+                xzoom -1.0
             kai "You're right! Planets are so interesting!"
             hide kai
 
+    stop music
     # Chegada ao Observatório
-    scene bg_observatorylongview with fade
-    play sound "bus_stop.ogg"
+    scene bg_newauroraclean with fade
 
     "The bus arrives at the Observatory. You and your friends get off and are greeted by Dr. Stella"
+    
 
     scene bg_observatoryinterior with fade
 
     show stella greeting at center with dissolve
     dstella "Welcome to the Space Observatory!"
+    show stella excited medio at center with dissolve
     dstella "Today, we’re going to explore the mysteries of the Sun."
     hide stella
 
@@ -70,10 +76,11 @@ label act1:
     # Interação com o jogador
     menu:
         "What is a star?":
+            $ player_points += 10
             show stella pointing at center with dissolve
             dstella "A star is a giant ball made of gas that shines and releases heat because it has a little 'fire' inside that releases energy."
             hide stella
-        "...":
+        "I don't want to learn about stars.":
             show stella thinking at center with dissolve
             dstella "Oh, that's too bad! I bet you'd love to know more about that."
             hide stella
@@ -84,14 +91,17 @@ label act1:
     hide luna excited
     
 label alert_screen:  # Etiqueta para a parte do alerta
-    scene bg_alertscreenred with dissolve
+
+    play music "bgm_alarm.flac" loop
+
+    scene alert with dissolve
     "Suddenly, an alert appears on one of the screens. Lights begin to flash."
 
     show kai surprised at right with dissolve
     kai "What's happening?"
     hide kai
 
-
+    stop music
     scene bg_observatoryscreens with dissolve
     show stella thinking at center with dissolve
     dstella "Hmm."
@@ -109,6 +119,8 @@ label alert_screen:  # Etiqueta para a parte do alerta
     # Interação com o jogador
     menu:
         "What is a solar storm?":
+            $ player_points += 10
+
             show stella excited close at center with dissolve
             dstella "I'm glad you asked!!"
 
@@ -117,12 +129,13 @@ label alert_screen:  # Etiqueta para a parte do alerta
             hide stella
         "...":
             show stella thinking at center with dissolve
-            dstella "Oh, that's too bad! I bet you'd love to know more about that."
+            dstella "I bet you'd love to know more about that."
             hide stella
             jump simulation_call  # Pular diretamente para a tela de alerta
 
 
-    show kai excited at right with dissolve
+    show kai excited at right with dissolve:
+        xzoom -1.0
     kai "Wow, that's cool!"
     hide kai
 
@@ -142,6 +155,7 @@ label simulation_call:
     show luna excited at left with dissolve
     Everyone "Yes!"
 
+    
 
 
     jump act2

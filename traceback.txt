@@ -1,32 +1,26 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/act2.rpy", line 112, in script
-    show satellite at rightish behind stella with fade
-  File "game/act2.rpy", line 112, in <module>
-    show satellite at rightish behind stella with fade
-NameError: name 'rightish' is not defined
+  File "game/act2.rpy", line 10, in script
+    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
+  File "game/act2.rpy", line 10, in <module>
+    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
+TypeError: image() missing 1 required positional argument: 'arg'
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/act2.rpy", line 112, in script
-    show satellite at rightish behind stella with fade
-  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1111, in execute
-    show_imspec(self.imspec, atl=getattr(self, "atl", None))
-  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1070, in show_imspec
-    at_list = [ renpy.python.py_eval(i) for i in at_list ]
-  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1070, in <listcomp>
-    at_list = [ renpy.python.py_eval(i) for i in at_list ]
-  File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1209, in py_eval
-    return py_eval_bytecode(code, globals, locals)
+  File "game/act2.rpy", line 10, in script
+    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 920, in execute
+    img = renpy.python.py_eval_bytecode(self.code.bytecode)
   File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1202, in py_eval_bytecode
     return eval(bytecode, globals, locals)
-  File "game/act2.rpy", line 112, in <module>
-    show satellite at rightish behind stella with fade
-NameError: name 'rightish' is not defined
+  File "game/act2.rpy", line 10, in <module>
+    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
+TypeError: image() missing 1 required positional argument: 'arg'
 
 Windows-10-10.0.22621 AMD64
 Ren'Py 8.3.2.24090902
 No name yet 1.0
-Sun Oct  6 03:39:35 2024
+Sun Oct  6 17:24:36 2024
