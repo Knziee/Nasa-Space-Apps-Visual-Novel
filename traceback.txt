@@ -1,26 +1,40 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/act2.rpy", line 10, in script
-    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
-  File "game/act2.rpy", line 10, in <module>
-    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
-TypeError: image() missing 1 required positional argument: 'arg'
+  File "game/act3.rpy", line 101, in script
+    play movie bg_creditsvideo
+  File "renpy/common/000statements.rpy", line 124, in execute_play_music
+    renpy.music.play(_audio_eval(p["file"]),
+  File "renpy/common/000statements.rpy", line 33, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+  File "game/act3.rpy", line 101, in <module>
+    play movie bg_creditsvideo
+NameError: name 'bg_creditsvideo' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/act2.rpy", line 10, in script
-    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
-  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 920, in execute
-    img = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "game/act3.rpy", line 101, in script
+    play movie bg_creditsvideo
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1974, in execute
+    self.call("execute")
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1953, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 124, in execute_play_music
+    renpy.music.play(_audio_eval(p["file"]),
+  File "renpy/common/000statements.rpy", line 33, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
   File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1202, in py_eval_bytecode
     return eval(bytecode, globals, locals)
-  File "game/act2.rpy", line 10, in <module>
-    image zoomvideo = Image(play="images/bg_rotatinfullzoom.webp")
-TypeError: image() missing 1 required positional argument: 'arg'
+  File "game/act3.rpy", line 101, in <module>
+    play movie bg_creditsvideo
+NameError: name 'bg_creditsvideo' is not defined
 
 Windows-10-10.0.22621 AMD64
 Ren'Py 8.3.2.24090902
-No name yet 1.0
-Sun Oct  6 17:24:36 2024
+SunExplorer 1.0
+Sun Oct  6 22:13:24 2024

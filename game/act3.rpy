@@ -1,11 +1,4 @@
-# Definição dos personagens
-# define luna = Character("Luna", color="#ffcc00")
-# define kai = Character("Kai", color="#99ff99")
-# define dstella = Character("Dra. Stella", color="#66ccff")
-# define you = Character("You")
-# define everyone = Character("Everyone")
-
-# Ato 3: Back to Earth
+image bg_creditsvideo = Movie(play="images/credits.webm")
 
 label act3:
 
@@ -88,7 +81,6 @@ label points_reveal:
     show stella portrait at center with dissolve
     dstella "I'd say ..."
     hide stella
-    play sound "bgm_congratulations.wav"
 
     if player_points >= 30:
         show stella excited close at center with vpunch
@@ -106,22 +98,10 @@ label points_reveal:
     hide stella
 
 label credits:
-    scene bg_newaurora with fade
+    play movie "images/credits.webm"
+    pause(30.0)
+    # show stella excited close at center with vpunch
+    # dstella "Bye!"
 
-    show text "Test Test Test"   at left
-    pause 1  # Pausa por 1 segundo
-
-    centered "2 2 2"
-    pause 1  # Pausa por 1 segundo
-
-    centered "3 3 3"
-    pause 1  # Pausa por 1 segundo
-
-    centered "4 4 4"
-
-
-    "credits"
-    # Uma cena de encerramento???
-    # Creditos com cenas dos personagens, incluir o lance do yt la, a doc fazendo algo aleatorio, inventar um encerramento inspirador pra cada um?
 
     return

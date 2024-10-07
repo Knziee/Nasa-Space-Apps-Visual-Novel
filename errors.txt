@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/act1.rpy", line 46: show statement expects a non-empty block.
-    show kai happy at right with dissolve:
-                                          ^
-
-File "game/act1.rpy", line 47: expected statement.
-    xzoom -1.0
-            ^
+File "game/act3.rpy", line 109: Line is indented, but the preceding pause statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    return
+    ^
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Sun Oct  6 17:48:52 2024
+Sun Oct  6 22:21:19 2024

@@ -1,37 +1,184 @@
-2024-10-06 20:42:28 UTC
+2024-10-07 01:06:59 UTC
 Windows-10-10.0.22621
 Ren'Py 8.3.2.24090902
 
-Early init took 0.25s
+Early init took 0.14s
 Loading error handling took 0.07s
-Loading script took 0.52s
-Loading save slot metadata took 0.25s
+Loading script took 0.48s
+Loading save slot metadata took 0.36s
 Loading persistent took 0.00s
-Running init code took 0.12s
+Running init code took 0.17s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.22s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.09s
+Build styles took 0.01s
+Load screen analysis took 0.01s
+Analyze screens took 0.03s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 166.80s
+Loading error handling took 0.04s
+Loading script took 0.22s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/act3.rpy", line 102: expected statement.
+    renpy.pause(30)
+                   ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.47s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 185.17s
+Loading error handling took 0.04s
+Loading script took 0.26s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.07s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.05s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.15s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.05s
+Initial gc took 0.07s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.29s
+Creating interface object took 0.34s
 Cleaning stores took 0.00s
-Init translation took 0.04s
+Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.02s
-Prepare screens took 0.09s
+Prepare screens took 0.10s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.03s
+Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.06s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 190.05s
+Loading error handling took 0.03s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -52,19 +199,36 @@ Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
 Resetting cache.
-Early init took 126.99s
-Loading error handling took 0.04s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
+Early init took 269.39s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
-
-File "game/act1.rpy", line 19: end of line expected.
-    show luna portrait at left with dissolve xzoom 
-                                             ^
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.14s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start took 0.41s
+Creating interface object took 0.41s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -78,28 +242,190 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 131.71s
-Loading error handling took 0.04s
-Loading script took 0.22s
-Loading save slot metadata took 0.04s
+Early init took 271.17s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
 Running init code took 0.05s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
 Dump and make backups took 0.09s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.06s
+Initial gc took 0.07s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.34s
+Creating interface object took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.04s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 279.61s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.30s
 Cleaning stores took 0.00s
 Init translation took 0.05s
 Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 366.66s
+Loading error handling took 0.03s
+Loading script took 0.22s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/act3.rpy", line 100: end of line expected.
+    label credits:[]
+                  ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.66s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 369.82s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.13s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.37s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 374.84s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.03s
@@ -120,20 +446,102 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 175.15s
-Loading error handling took 0.03s
-Loading script took 0.23s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
 
-File "game/act1.rpy", line 20: Line is indented, but the preceding show statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    xzoom -1.0
-    ^
+Full traceback:
+  File "game/act3.rpy", line 101, in script
+    play movie bg_creditsvideo
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1974, in execute
+    self.call("execute")
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\ast.py", line 1953, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 124, in execute_play_music
+    renpy.music.play(_audio_eval(p["file"]),
+  File "renpy/common/000statements.rpy", line 33, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1209, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+  File "E:\RenPy\renpy-8.3.2-sdk\renpy\python.py", line 1202, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/act3.rpy", line 101, in <module>
+    play movie bg_creditsvideo
+NameError: name 'bg_creditsvideo' is not defined
+
+While running game code:
+  File "game/act3.rpy", line 101, in script
+    play movie bg_creditsvideo
+  File "renpy/common/000statements.rpy", line 124, in execute_play_music
+    renpy.music.play(_audio_eval(p["file"]),
+  File "renpy/common/000statements.rpy", line 33, in _audio_eval
+    return eval(expr, locals=store.audio.__dict__)
+  File "game/act3.rpy", line 101, in <module>
+    play movie bg_creditsvideo
+NameError: name 'bg_creditsvideo' is not defined
+Resetting cache.
+Early init took 389.62s
+Loading error handling took 0.04s
+Loading script took 0.28s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.07s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.14s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start took 0.44s
+Creating interface object took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.09s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.05s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 399.08s
+Loading error handling took 0.03s
+Loading script took 0.26s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+
+File "game/act3.rpy", line 101: expected end of line
+    play movie ""images/credits.webm""
+                 ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.59s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -147,7 +555,126 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 184.39s
+Early init took 400.80s
+Loading error handling took 0.03s
+Loading script took 0.21s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/act3.rpy", line 101: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        play movie "images/credits.webm""
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.50s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 402.49s
+Loading error handling took 0.03s
+Loading script took 0.26s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 404.53s
+Loading error handling took 0.03s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.12s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 483.92s
 Loading error handling took 0.03s
 Loading script took 0.24s
 Loading save slot metadata took 0.05s
@@ -157,15 +684,58 @@ Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.10s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.11s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.06s
+Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.29s
+Creating interface object took 0.30s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 485.94s
+Loading error handling took 0.03s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.03s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.05s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.30s
 Cleaning stores took 0.00s
 Init translation took 0.05s
 Build styles took 0.00s
@@ -173,10 +743,10 @@ Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.02s
 Prepare screens took 0.10s
-Save pyanalysis. took 0.05s
+Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.05s
+Interface start took 0.06s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -190,35 +760,9 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 224.43s
+Early init took 487.81s
 Loading error handling took 0.03s
 Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-
-File "game/act1.rpy", line 60: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
-    show stella greeting at center with dissolve
-    ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.48s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 226.11s
-Loading error handling took 0.03s
-Loading script took 0.23s
 Loading save slot metadata took 0.05s
 Loading persistent took 0.00s
 Running init code took 0.05s
@@ -226,26 +770,26 @@ Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
 Dump and make backups took 0.09s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.06s
+Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
+Creating interface object took 0.36s
 Cleaning stores took 0.00s
 Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.02s
-Prepare screens took 0.09s
+Prepare screens took 0.11s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
+Save bytecode. took 0.03s
 Running _start took 0.00s
-Interface start took 0.05s
+Interface start took 0.08s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -259,9 +803,9 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 251.36s
+Early init took 489.85s
 Loading error handling took 0.03s
-Loading script took 0.28s
+Loading script took 0.21s
 Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
 Running init code took 0.07s
@@ -269,50 +813,6 @@ Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.28s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.10s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 253.26s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
 Dump and make backups took 0.09s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -320,18 +820,18 @@ Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
+Creating interface object took 0.30s
 Cleaning stores took 0.00s
-Init translation took 0.05s
+Init translation took 0.06s
 Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.10s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.11s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
+Save bytecode. took 0.00s
 Running _start took 0.00s
-Interface start took 0.05s
+Interface start took 0.06s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -345,50 +845,7 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 269.80s
-Loading error handling took 0.03s
-Loading script took 0.21s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.28s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 271.70s
+Early init took 494.79s
 Loading error handling took 0.03s
 Loading script took 0.23s
 Loading save slot metadata took 0.05s
@@ -398,11 +855,275 @@ Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.30s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 504.32s
+Loading error handling took 0.03s
+Loading script took 0.22s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
 Dump and make backups took 0.10s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.36s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 509.26s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 521.86s
+Loading error handling took 0.03s
+Loading script took 0.24s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.29s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 531.47s
+Loading error handling took 0.03s
+Loading script took 0.19s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.30s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 594.36s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.17s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.37s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.11s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 597.82s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.12s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
@@ -431,7 +1152,50 @@ Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
 Resetting cache.
-Early init took 273.59s
+Early init took 601.20s
+Loading error handling took 0.03s
+Loading script took 0.22s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.34s
+Cleaning stores took 0.00s
+Init translation took 0.07s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 603.01s
 Loading error handling took 0.03s
 Loading script took 0.23s
 Loading save slot metadata took 0.05s
@@ -441,22 +1205,277 @@ Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.10s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.07s
+Initial gc took 0.08s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.28s
+Creating interface object took 0.30s
 Cleaning stores took 0.00s
 Init translation took 0.05s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.02s
-Prepare screens took 0.09s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 839.77s
+Loading error handling took 0.03s
+Loading script took 0.22s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.32s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 850.86s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.10s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.12s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 855.79s
+Loading error handling took 0.03s
+Loading script took 0.28s
+Loading save slot metadata took 0.08s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 857.64s
+Loading error handling took 0.03s
+Loading script took 0.23s
+Loading save slot metadata took 0.05s
+Loading persistent took 0.00s
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.09s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.35s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.02s
+Prepare screens took 0.10s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 859.45s
+Loading error handling took 0.03s
+Loading script took 0.22s
+Loading save slot metadata took 0.04s
+Loading persistent took 0.00s
+
+File "game/act3.rpy", line 109: Line is indented, but the preceding pause statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    return
+    ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.48s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 555.85'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
+Maximum texture size: 4096x4096
+controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
+Resetting cache.
+Early init took 861.19s
+Loading error handling took 0.03s
+Loading script took 0.27s
+Loading save slot metadata took 0.06s
+Loading persistent took 0.00s
+Running init code took 0.07s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.04s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.10s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.08s
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.33s
+Cleaning stores took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.10s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
@@ -481,393 +1500,32 @@ Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
 Resetting cache.
-Early init took 361.59s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.30s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 382.46s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.04s
-Loading persistent took 0.00s
-
-File "game/act1.rpy", line 46: show statement expects a non-empty block.
-    show kai happy at right with dissolve:
-                                          ^
-
-File "game/act1.rpy", line 47: expected menuitem
-    xzoom -1.0
-    ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.42s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 384.16s
-Loading error handling took 0.03s
-Loading script took 0.21s
-Loading save slot metadata took 0.04s
-Loading persistent took 0.00s
-
-File "game/act1.rpy", line 46: show statement expects a non-empty block.
-    show kai happy at right with dissolve:
-                                          ^
-
-File "game/act1.rpy", line 47: expected statement.
-    xzoom -1.0
-            ^
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Interface start took 0.44s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 385.83s
-Loading error handling took 0.03s
-Loading script took 0.23s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.07s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.06s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 412.68s
-Loading error handling took 0.03s
-Loading script took 0.25s
-Loading save slot metadata took 0.04s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.30s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 422.84s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.28s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.06s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 446.93s
-Loading error handling took 0.03s
-Loading script took 0.23s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.10s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 460.41s
+Early init took 913.80s
 Loading error handling took 0.03s
 Loading script took 0.24s
-Loading save slot metadata took 0.05s
+Loading save slot metadata took 0.06s
 Loading persistent took 0.00s
 Running init code took 0.05s
 Loading analysis data took 0.02s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.04s
 Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.10s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 468.47s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.15s
+Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\sunExplorer':
+Dump and make backups took 0.09s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.09s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
+Creating interface object took 0.33s
 Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
+Init translation took 0.06s
+Build styles took 0.01s
 Load screen analysis took 0.00s
 Analyze screens took 0.02s
 Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.02s
-Save bytecode. took 0.02s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 476.51s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
+Prepare screens took 0.10s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
@@ -884,132 +1542,10 @@ Display Info: None
 Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
 Maximum texture size: 4096x4096
 controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 576.56s
-Loading error handling took 0.03s
-Loading script took 0.21s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.07s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.29s
 Cleaning stores took 0.00s
-Init translation took 0.05s
+Init translation took 0.00s
 Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.02s
+Load screen analysis took 0.04s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
 Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 590.84s
-Loading error handling took 0.03s
-Loading script took 0.21s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.09s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.32s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1
-Resetting cache.
-Early init took 598.94s
-Loading error handling took 0.03s
-Loading script took 0.21s
-Loading save slot metadata took 0.05s
-Loading persistent took 0.00s
-Running init code took 0.05s
-Loading analysis data took 0.02s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.04s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\16rhu\\AppData\\Roaming/RenPy/backups\\No name yet':
-Dump and make backups took 0.10s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.08s
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: Disabled thread optimizations.
-Creating interface object took 0.29s
-Cleaning stores took 0.00s
-Init translation took 0.05s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.02s
-Save screen analysis took 0.02s
-Prepare screens took 0.09s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.05s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 2060/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 555.85'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(1173, 660) drawable=(1173, 660)
-Maximum texture size: 4096x4096
-controller: '030000004c050000e60c000000016800' 'PS5 Controller' 1

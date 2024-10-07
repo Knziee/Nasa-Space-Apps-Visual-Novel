@@ -6,12 +6,6 @@ label act1:
     scene bg_innerbuszoom with fade
 
     show luna excited at left with dissolve
-        # yalign 4.5 #medium cut
-        # zoom 1.5
-        # yalign 2
-        # xalign 0.5
-        # yalign 8.5 #medium cut
-
         
     luna "I can't wait to see the stars up close!"
 
@@ -49,6 +43,7 @@ label act1:
             hide kai
 
     stop music
+
     # Chegada ao Observatório
     scene bg_newauroraclean with fade
 
@@ -154,8 +149,6 @@ label simulation_call:
     show kai excited at right with dissolve
     show luna excited at left with dissolve
     Everyone "Yes!"
-
-    
 
 
     jump act2

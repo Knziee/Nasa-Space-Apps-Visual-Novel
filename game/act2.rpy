@@ -1,14 +1,6 @@
-# Definição dos personagens
-# define luna = Character("Luna", color="#ffcc00")
-# define kai = Character("Kai", color="#99ff99")
-# define dstella = Character("Dra. Stella", color="#66ccff")
-# define you = Character("You")
-# define everyone = Character("Everyone")
 
-# Ato 2: Aventura no Espaço
-
-image zoomvideo = Movie(play="images/bg_sunrotatingfullhd.webm")
-image windowvideo = Movie(play="images/bg_sunRotatingFromwindow.webm")
+image bg_zoomvideo = Movie(play="images/bg_sunrotatingfullhd.webm")
+image bg_windowvideo = Movie(play="images/bg_sunRotatingFromwindow.webm")
 
 label act2:
 
@@ -37,9 +29,7 @@ label act2:
     dstella "On that day, we experienced a very intense storm, much stronger than in many other years."
     hide stella
 
-    # Animação e descrição das erupções solares
-    
-    scene windowvideo with fade
+    scene bg_windowvideo with fade
     "You are witnessing the intense activity on the surface of the Sun."
     "You see surprised faces around you."
 
@@ -53,9 +43,6 @@ label act2:
     dstella "It's like the Sun is releasing a big burst of light, which can affect Earth!"
     hide stella
 
-    # "A screen displays the magnetic data."
-    # isso ta meio solto n?kkkkkkk
-
     show kai surprised at right with dissolve
     kai "What happens if a storm hits Earth?"
     hide kai
@@ -66,7 +53,7 @@ label act2:
     dstella "We can discover more together!"
     hide stella
 
-    scene zoomvideo with fade
+    scene bg_zoomvideo with fade
 
     stop music
     "Everyone takes a good look at the bursts of light from the sun, marveling at the vibrant display of solar energy illuminating the sky."
@@ -77,12 +64,6 @@ label act2:
     show luna excited at left with dissolve
     luna "Wow! It's huge!"
     hide luna
-
-    #RHUAAAAN aqui precisamos de uma imagem que é um zoom em uma erupção solar
-
-    #kkkkkkkkkkkkkkkkkkk acho que essa anterior com zoom tem algumas, só falta fazer funcionar
-    # scene bg solar_flair_zoom with fade
-
 
     show kai thinking at right with dissolve
     kai "What are those giant bubbles?"
@@ -128,11 +109,8 @@ label act2:
             jump storm_effects  # Pular diretamente para a tela de alerta
 
 label storm_effects:
-    # SUELLENNN, essa não fuçarei pra vc ajeitar como mencionou
-    # show stella happy at center with dissolve
     scene bg_nointernetwithkai with fade
     dstella "Storms of this level can affect satellites, cause power outages, and disrupt TV and internet transmissions."
-    # hide stella
 
     scene bg_insidesimulation with fade
 
